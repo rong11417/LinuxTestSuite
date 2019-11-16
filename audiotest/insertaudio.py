@@ -1,6 +1,12 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
-
+#####################################################
+#@导入MYSQL数据库
+#@author:GUOLeiLei
+#@blog:https://blog.csdn.net/rong11417
+#@mail:1040446144@qq.com
+#
+#######################################################
 import MySQLdb
 import sys,commands,time
 path=commands.getoutput(('pwd'))
